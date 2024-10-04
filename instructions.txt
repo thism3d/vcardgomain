@@ -1,0 +1,13 @@
+// Github Instruction
+git add .
+git commit -m ""
+git branch -M main
+git remote add origin https://github.com/thism3d/vcardgomain.git
+git push -u origin main
+
+
+// PHP Clear Cache View And Confguration
+php artisan view:clear
+php artisan cache:clear
+php artisan config:clear
+php artisan route:clear
