@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2024-04-25T15:00:02Z
+N;CHARSET=utf-8:;business1;;;
+FN;CHARSET=utf-8:business1
+ORG;CHARSET=utf-8:business1
+ROLE;CHARSET=utf-8:
+EMAIL;INTERNET;TYPE=EMAIL:company@example.com
+TEL;TYPE=Phone NO:9876543217
+URL;TYPE=Pinterest:www.pinstest.com
+URL;TYPE=Tiktok:www.tiktok.com
+URL;TYPE=Whatsapp:7894561238
+END:VCARD

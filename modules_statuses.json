@@ -1,0 +1,20 @@
+{
+    "LandingPage": true,
+    "PDFToQRCode": false,
+    "Facebook": false,
+    "Coupon": false,
+    "Event": false,
+    "GoogleForm": false,
+    "GoogleMapURL": false,
+    "ImageGallery": false,
+    "Payments": false,
+    "Menu": false,
+    "SMS": false,
+    "UPI": false,
+    "AppDownload": false,
+    "SocialMedia": false,
+    "Google": false,
+    "Youtube": false,
+    "PetTag": false,
+    "PDFGallery": false
+}

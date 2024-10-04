@@ -1,0 +1,3 @@
+[2024-04-26 16:41:24] local.INFO: {"code":111,"message":"Transaction class required","trace":"PMNT0705.662B8BDC.000005D0","success":false}  
+[2024-04-26 16:42:11] local.INFO: {"code":111,"message":"Invalid transaction class (transaction)","trace":"PMNT0706.662B8C0B.000005CA","success":false}  
+[2024-04-26 16:42:40] local.INFO: {"code":111,"message":"Invalid transaction class (transaction_description)","trace":"PMNT0705.662B8C28.000005D1","success":false}  
